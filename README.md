@@ -57,6 +57,15 @@ lib/
 ```
 
 ## UI Design
+-
+<p>
+  <img src="https://github.com/user-attachments/assets/b4172253-3d5c-455b-b60f-74e1ccb25f7d" width="250">
+  <img src="https://github.com/user-attachments/assets/d3f3bf16-4a3e-45f1-9a51-fdf6b9c1e5f9" width="250">
+  <img src="https://github.com/user-attachments/assets/294aa3d2-5985-458f-97a0-0d35787003a9" width="250">
+  <img src="https://github.com/user-attachments/assets/b01867a6-a2c8-45de-9c1d-c13d608bb484" width="250">
+<p/>
+      
+---
 
 ## Set Up
 - Clone Project
