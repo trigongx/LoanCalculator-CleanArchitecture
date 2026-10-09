@@ -1,0 +1,4 @@
+enum SliderType {
+  dynamic,
+  static
+}

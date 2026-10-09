@@ -1,0 +1,1 @@
+export 'loan_detail/loan_detail_model.dart';
